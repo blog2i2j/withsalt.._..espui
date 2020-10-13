@@ -84,4 +84,7 @@ void loop()
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson "ArduinoJson")
 
 ### 捐赠
-<center>![捐赠 支付宝](https://github.com/withsalt/espui/blob/main/documents/alipay.jpg "捐赠 支付宝" )</center>
+![捐赠 支付宝](https://github.com/withsalt/espui/blob/main/documents/alipay.jpg "捐赠 支付宝" )
+
+### Stargazers over time
+[![Stargazers over time](https://starchart.cc/withsalt/BilibiliLiveTools.svg)](https://starchart.cc/withsalt/BilibiliLiveTools)
