@@ -84,4 +84,4 @@ void loop()
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson "ArduinoJson")
 
 ### 捐赠
-<center>![捐赠 支付宝](https://github.com/withsalt/espui/blob/main/documents/alipay.jpg "捐赠 支付宝" ){:height="50%" width="50%"}</center>
+<center>![捐赠 支付宝](https://github.com/withsalt/espui/blob/main/documents/alipay.jpg "捐赠 支付宝" )</center>
